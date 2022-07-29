@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  transverse:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2022-07-29T18:20:03.160145103Z"
+    description: Deployment of transverse
+    digest: df897ee6561422061dc73929e0b012ee06ca8af9a5181bc9899bc78cb05de574
+    name: transverse
+    urls:
+    - https://kagzouli.github.io/helm-charts/transverse-0.0.0.tgz
+    version: 0.0.0
+generated: "2022-07-29T18:20:03.159599221Z"
