@@ -3,16 +3,16 @@ entries:
   station:
   - apiVersion: v2
     appVersion: 1.0.10
-    created: "2022-07-30T22:34:04.615855199Z"
+    created: "2022-07-30T22:49:10.597427843Z"
     description: Deployment of station
-    digest: 8be84ac9a6590d3f57db105a4db712919712f2badca80327578196d5ee4dd4af
+    digest: a17cce0c4b18e76d34285b5f9bdbe792bbf4e7b4978d199dc1bd3509baa0f74d
     name: station
     urls:
     - https://kagzouli.github.io/helm-charts/station-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v2
     appVersion: 1.0.10
-    created: "2022-07-30T22:34:04.613648987Z"
+    created: "2022-07-30T22:49:10.5942468Z"
     description: Deployment of station
     digest: d77b63e4b29d3bc073e2afc956a82481bda85d159db0f9f21b9abc29c0fcdf1f
     name: station
@@ -22,11 +22,11 @@ entries:
   transverse:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-07-30T22:34:04.61625312Z"
+    created: "2022-07-30T22:49:10.597777647Z"
     description: Deployment of transverse
-    digest: ca8785604b7fa493233f2b1cf8e79515b1086fb6e9ec0d00da007b1ae74e29ae
+    digest: 5375a9caef21eb51ce75db4e61caa3202829f829b0281265f8dd54bb4382351c
     name: transverse
     urls:
     - https://kagzouli.github.io/helm-charts/transverse-1.0.0.tgz
     version: 1.0.0
-generated: "2022-07-30T22:34:04.611874996Z"
+generated: "2022-07-30T22:49:10.593244587Z"
