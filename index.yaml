@@ -3,7 +3,16 @@ entries:
   station:
   - apiVersion: v2
     appVersion: 1.0.10
-    created: "2022-07-30T23:47:15.102772136Z"
+    created: "2022-08-02T23:02:15.455544152Z"
+    description: Deployment of station
+    digest: 28557d56f2dc5baf7a3458cc68b5c16316770e6ef6b66022d9a5a9056fae5f32
+    name: station
+    urls:
+    - https://kagzouli.github.io/helm-charts/station-1.0.2.tgz
+    version: 1.0.2
+  - apiVersion: v2
+    appVersion: 1.0.10
+    created: "2022-08-02T23:02:15.454653638Z"
     description: Deployment of station
     digest: 61208707e0004944cf65951484bb1f9518297ff5954c6da74c27340263cb7288
     name: station
@@ -12,7 +21,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.0.10
-    created: "2022-07-30T23:47:15.102025126Z"
+    created: "2022-08-02T23:02:15.453763725Z"
     description: Deployment of station
     digest: 98fc6597ddc73dbb29d4adcb9cb929d76b6b0e6d62f40824da2b55ef21cd7d9d
     name: station
@@ -22,7 +31,16 @@ entries:
   transverse:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-07-30T23:47:15.103736551Z"
+    created: "2022-08-02T23:02:15.456497466Z"
+    description: Deployment of transverse
+    digest: 7e960baec4d51eafc524a09faca134ee5c23ae9b69d1793b3b804b788087bfe2
+    name: transverse
+    urls:
+    - https://kagzouli.github.io/helm-charts/transverse-1.0.2.tgz
+    version: 1.0.2
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2022-08-02T23:02:15.456186461Z"
     description: Deployment of transverse
     digest: db8c9b48e4860219e52a8ceef6c48143964506703567030f7163b06dc4b8a0a7
     name: transverse
@@ -31,11 +49,11 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-07-30T23:47:15.103453846Z"
+    created: "2022-08-02T23:02:15.455907257Z"
     description: Deployment of transverse
     digest: d57396abb31690bedd1d9c27407a1dff8f0b5942bb1ad71edd2d9019ad04ee00
     name: transverse
     urls:
     - https://kagzouli.github.io/helm-charts/transverse-1.0.0.tgz
     version: 1.0.0
-generated: "2022-07-30T23:47:15.101114312Z"
+generated: "2022-08-02T23:02:15.452630008Z"
